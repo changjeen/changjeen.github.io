@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "겐네"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "개발하는 회사원"
+  location         : "서울 어딘가"
+  email            : "changjeen@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
